@@ -1,5 +1,1 @@
-Pedro: Olá galera!
-Nicolas: Eae man
-uy: uy
-y: y
-y: y
+...
